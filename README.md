@@ -1,4 +1,12 @@
-<<<<<<< HEAD
+Vantech
+=======
+
+Vantech is a social news community for web developers and entrepreneurs. Vantech was founded by a group of students from Lighthouse Labs in Vancouver, BC and is built using Meteor and Node.js
+
+
+Telescope
+=========
+
 Telescope is an open-source, real-time social news site built with [Meteor](http://meteor.com)
 
 **Note:** Telescope is beta software. Most of it should work but it's still a little unpolished and you'll probably find some bugs. Use at your own risk :)
@@ -27,9 +35,3 @@ Start hacking on this app on
 in seconds:
 
 [![Hack TelescopeJS/Telescope on Nitrous.IO](https://d3o0mnbgv6k92a.cloudfront.net/assets/hack-l-v1-3cc067e71372f6045e1949af9d96095b.png)](https://www.nitrous.io/hack_button?source=embed&runtime=nodejs&repo=TelescopeJS%2FTelescope&file_to_open=README.nitrous.md)
-=======
-Vantech
-=======
-
-Vancouver Technology Community 
->>>>>>> 51f75819e7d4c4b4e751767ad5acbb1acbaac9f8
