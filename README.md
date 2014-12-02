@@ -9,10 +9,7 @@ Telescope
 
 Telescope is an open-source, real-time social news site built with [Meteor](http://meteor.com)
 
-### Learn More
+Contacts
+========
 
-- [Telescope Homepage](http://telesc.pe)
-- [Telescope Demo](http://demo2.telescopeapp.org)
-- [Telescope Documentation](http://telesc.pe/docs)
-- [Telescope Roadmap](https://trello.com/b/oLMMqjVL/telescope-roadmap)
-- [Telescope Meta](http://meta.telesc.pe/) – Discussions about Telescope
+Simon Rai - simon@raize.ca
